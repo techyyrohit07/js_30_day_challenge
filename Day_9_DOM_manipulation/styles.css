@@ -1,0 +1,42 @@
+body{
+    background-color: #212121;
+    color: #fff;
+}
+
+#title{
+    text-align: center;
+}
+
+li{
+    font-size: "20px";
+    font-weight: 700;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
+
+.addClass{
+    background-color: goldenrod;
+    border: 1px solid black;
+}
+
+p{
+    font-size: 25px;
+}
+
+#button{
+    background-color: green;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+}
+
+.addBorder{
+    border: 2px solid red;
+    transition: border-color 0.3s;
+}
