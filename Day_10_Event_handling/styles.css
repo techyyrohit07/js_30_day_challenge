@@ -1,0 +1,25 @@
+body{
+    background-color: #212121;
+    color: #fff;
+    font-size: 20px;
+}
+
+#button{
+    background-color: green;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+}
+
+.toggle{
+    display: none;
+}
